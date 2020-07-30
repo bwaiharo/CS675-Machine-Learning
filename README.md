@@ -1,1 +1,1 @@
-# CS675-Machine-Learning
+# CS675
